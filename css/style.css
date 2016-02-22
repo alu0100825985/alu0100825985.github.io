@@ -38,9 +38,9 @@ body a{
 }
 
 #foto-perfil {
-	width: 8.5%;
+	width: 80px;
 	height: 85px;
-	margin-top: -0.3%;
+	margin-top: -2%;
 }
 
 #texto-header-nombre {
@@ -130,6 +130,16 @@ body a{
 
 #titulo-practicas {
 	font-family: 'Source Sans Pro', sans-serif;
+	background: #003d48;
+	font-size: 1.5em;
+	color: #fff;
+	width: 115.8%;
+	height: 90px;
+	margin-left: -7.9%;
+	margin-top: -2%;
+	margin-bottom: -3.5%;
+	text-align: center;
+	padding-top: 1.75%;
 }
 
 #indicador-practica {
@@ -787,18 +797,6 @@ ul.social li a i.tw{
 	background-position:-197px -118px;
 }
 /*--about--*/
-h1.title-header {
-	background: #003d48;
-	display: -webkit-inline-box;
-	color: #fff;
-	font-size: 1.5em;
-	text-transform: uppercase;
-	padding: 0.4em 5em 0.4em 1em;
-	width: 115.8%;
-	margin-left: -7.9%;
-	margin-top: -2%;
-	margin-bottom: -3.5%;
-}
 .breadcrumb {
 	padding: 8px 15px;
 	margin-bottom: 20px;
