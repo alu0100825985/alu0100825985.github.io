@@ -38,13 +38,14 @@ body a{
 }
 
 #foto-perfil {
-	width: 11%;
-	height: 15%;
+	width: 8.5%;
+	height: 85px;
+	margin-top: -0.3%;
 }
 
 #texto-header-nombre {
 	font-family: 'Source Sans Pro', sans-serif;
-	margin-left: 8.5%;
+	margin-left: 9%;
 	margin-bottom: -3%;
 	margin-top: -0.3%;
 	font-size: 30px;
@@ -53,7 +54,7 @@ body a{
 
 #texto-header-ull {
 	font-family: 'Source Sans Pro', sans-serif;
-	margin-left: 8.5%;
+	margin-left: 9%;
 	margin-bottom: -5%;
 	margin-top: 2.45%;
 	font-size: 17px;
@@ -105,7 +106,7 @@ body a{
 #imagen-mapa-facultad {
 	width: 80%;
 	height: 131px;
-	border: 0.1px solid #003d48;
+	border: 3px solid #6dc5dd;
 	border-radius: 0.2em;
 	margin-top: -3.5%;
 	margin-left: 9%;
