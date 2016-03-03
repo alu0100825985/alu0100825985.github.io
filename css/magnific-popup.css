@@ -631,12 +631,16 @@ h3.popup a{
 	text-align:center;
 }
 #small-dialog3 {
-	background: #FFF;
+	background: white;
 	padding: 10px 15px;
 	text-align: left;
-	max-width:338px;
+	max-width: 400px;
 	margin: 40px auto;
 	position: relative;
+	border-radius:2px;
+	-webkit-border-radius:2px;
+	-moz-border-radius:2px;
+	-o-border-radius:2px;
 }
 .pop_up2{
 	padding:10px;
